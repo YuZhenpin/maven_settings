@@ -1,1 +1,1 @@
-# maven_settings
+# maven_settings for China users
